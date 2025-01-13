@@ -62,6 +62,8 @@
 ## Credits
 
     Game developed by Mahmoud Hussain
+    Copyright (c) 2025 Mahmoud Hussain 
+
 
  Enjoy the game and happy coding! 🚀🎮
 
