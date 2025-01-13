@@ -60,8 +60,7 @@
 - Renders text on the screen, displaying health and score information.
 
 ## Credits
-
-    Game developed by Mahmoud Hussain
+    
     Copyright (c) 2025 Mahmoud Hussain 
 
 
